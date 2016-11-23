@@ -52,7 +52,7 @@ table {
     background: #629bf7;
     width: 96%;
     height: 80px;
-    margin: 10px 2%;    
+    margin: 10px 26px;    
 }
 
 .sec1,
@@ -65,36 +65,36 @@ table {
 	background: #009245;
  	width: 20%;
  	height: 800px;
- 	margin: 15px 0px 10px 2%;
+ 	margin: 15px 0px 10px 26px;
 }
 
 .sec2 {
 	background: red;
 	width: 58%;
 	height: 800px;
-	margin: 10px 1%;
+	margin: 10px 13.5px;
 }
 
 .sec3 {
 	background: #f98c0e;
 	width: 15%;
 	height: 800px;
-	margin: 10px 0.4%;
+	margin: 10px 4px;
 }
 
-@media only screen and (min-width: 579px) and (max-width: 999px) {
+@media only screen and (min-width: 838px) and (max-width: 999px) {
 	.header {
 		background: #629bf7;
-   	    width: 90%;
+   	    width: 91%;
     	height: 70px;
-    	margin: 10px 5.5%;    	
+    	margin: 10px 45px;    	
 	}
 
 	.sec1 {
 		background: #009245;
- 		width: 90%;
+ 		width: 91%;
  		height: 100px;
- 		margin: 8px 0px 8px 5.5%;
+ 		margin: 8px 0px 8px 45px;
 	}
 
 	.sec2, .sec3 {
@@ -103,39 +103,39 @@ table {
 	
 	.sec2 {
 		background: red;
-		width: 50%;
-		height: 450px;
-		margin: 15px 5% 15px 5.5%;
+		width: 48%;
+		height: 700px;
+		margin: 15px 51px 15px 45px;
 	}
 
 	.sec3 {
 		background: #f98c0e;
-		width: 35%;
-		height: 450px;
-		margin: 15px 2% 15px -5px;
+		width: 37%;
+		height: 700px;
+		margin: 15px 30px 15px -5px;
 	}
 }
 
-@media only screen and (min-width: 301px) and (max-width: 578px) {
+@media only screen and (min-width: 301px) and (max-width: 837px) {
 	.header {
 		background: #629bf7;
 		width: 92%;
-		height: 70px;
-		margin: 10px 4%;
+		height: 80px;
+		margin: 10px 27px;
 	}
 	
 	.sec1 {
 		background: #009245;
 		width: 92%;
-		height: 70px;
-		margin: 10px 4%;
+		height: 80px;
+		margin: 10px 27px;
 	}
 
 	.sec2 {
 		background: red;
 		width: 92%;
-		height: 370px;
-		margin: 10px 4%;
+		height: 550px;
+		margin: 10px 27px;
 	}
 	
 	.sec3 {
